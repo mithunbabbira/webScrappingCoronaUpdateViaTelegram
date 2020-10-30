@@ -29,7 +29,7 @@ print(n[2])
 ID = ['801016893_1087390121788281336','1103371558_2811474889819250540']
 bot.send_message(chat_id=ID[0], text="\npositive="+n[0]+"\nDead="+n[1]+"\nRecovered="+n[2]+"\nby Mithun BD")
 
-bot.send_message(chat_id=ID[1], text="\npositive="+n[0]+"\nDead="+n[1]+"\nRecovered="+n[2]+"\nby Mithun BD to shifana mallu (i will never ignore u")
+
 
 
 # for i in range (9999999999999999,9999999999999991,-1):
